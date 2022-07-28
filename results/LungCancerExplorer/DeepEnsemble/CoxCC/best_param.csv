@@ -1,2 +1,0 @@
-activation;batch_size;dropout;l2;learning_rate;n_layers;neurons;optimizer
-relu;32;0.25644889504708374;0.08932581566042373;0.0019472154956865569;4;127;sgdwr

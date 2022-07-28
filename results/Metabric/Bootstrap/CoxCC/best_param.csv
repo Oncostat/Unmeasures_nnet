@@ -1,2 +1,0 @@
-activation;batch_size;dropout;l2;learning_rate;n_layers;neurons;optimizer
-relu;64;0.2687963113871135;0.0794502101251446;0.001004448683789715;3;50;adam_amsgrad

@@ -1,2 +1,0 @@
-activation;alpha;batch_size;dropout;l2;learning_rate;n_layers;neurons;num_durations;optimizer;sigma
-relu;3.8592610690615535e-05;64;0.05732852421023283;0.027144015489259012;0.006241649727092541;4;112;10;sgdwr;0.5
